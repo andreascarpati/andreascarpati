@@ -1,3 +1,4 @@
+![Profile Image](/foto.jpg)
 - Hi, I’m @andreascarpati
 - sono insegnante presso itis giordani
 -  I’m interested in ...
