@@ -1,13 +1,7 @@
-- Hi, I’m @andreascarpati
-- sono insegnante presso itis giordani
--  I’m interested in ...
-- I’m currently learning ...
-- I’m looking to collaborate on ...
-- How to reach me ...
--  Pronouns: ...
--  Fun fact: ...
 
-<!---
-andreascarpati/andreascarpati is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- IO sono Andrea Scarpati
+- sono Professore di ruolo alla scuola superiore di secondo grado, negli istitutii tecnici
+- Materia Laborio di Scienze e tecnologie Informatiche
+- Abilitato nel 2020 nella materia
+- Laureato in Ingegneria
+
