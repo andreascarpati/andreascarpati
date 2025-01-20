@@ -7,6 +7,6 @@
 
 canali
 
-https://www.t.me/imparareinformatica
+Telegram: https://www.t.me/imparareinformatica
 
-https://www.youtube.com/@andreascarpati5192
+youtube: https://www.youtube.com/@andreascarpati5192
