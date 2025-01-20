@@ -4,6 +4,7 @@
 - Materia Laborio di Scienze e tecnologie Informatiche
 - Abilitato nel 2020 nella materia
 - Laureato in Ingegneria
+- 
 canali
 t.me/imparareinformatica
 https://www.youtube.com/@andreascarpati5192
