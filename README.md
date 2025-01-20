@@ -7,4 +7,5 @@
 - 
 canali
 t.me/imparareinformatica
+
 https://www.youtube.com/@andreascarpati5192
