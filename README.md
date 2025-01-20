@@ -4,7 +4,7 @@
 - Materia Laborio di Scienze e tecnologie Informatiche
 - Abilitato nel 2020 nella materia
 - Laureato in Ingegneria
-- 
+
 canali
 
 https://www.t.me/imparareinformatica
