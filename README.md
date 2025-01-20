@@ -6,6 +6,7 @@
 - Laureato in Ingegneria
 - 
 canali
-t.me/imparareinformatica
+
+https://www.t.me/imparareinformatica
 
 https://www.youtube.com/@andreascarpati5192
