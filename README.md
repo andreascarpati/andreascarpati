@@ -1,8 +1,6 @@
 
 - IO sono Andrea Scarpati
-- sono Professore di ruolo alla scuola superiore di secondo grado, negli istitutii tecnici
-- Materia Laborio di Scienze e tecnologie Informatiche
-- Abilitato nel 2020 nella materia
+- sono uno sviluppatore software e un sistemista
 - Laureato in Ingegneria
 
 canali
