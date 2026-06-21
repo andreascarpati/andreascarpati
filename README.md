@@ -8,7 +8,7 @@ P.IVA: 10877061217
 #AndreaScarpati#Developer#Sistemista#ConsulenteIT
 ---
 ## 🎓 Formazione
-Laureato in Ingegneria dei Servizi di Software, Networking e Consulenza IT.
+Laureato in Ingegneria 
 ---
 ## 📞 Contatti Professionali (solo tramite WhatsApp Business)
 Per richieste, preventivi e consulenze utilizzo esclusivamente i canali con WhatsApp Business integrato:
