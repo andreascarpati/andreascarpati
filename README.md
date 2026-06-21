@@ -3,7 +3,8 @@ Sviluppatore Software • Sistemista • Consulente IT
 P.IVA: 10877061217  
 **Settori ATECO:**  
 - 62.10.00 – Programmazione Informatica  
-- 62.20.10 – Sistemista e Consulente IT  
+- 62.20.10 – Sistemista e Consulente IT
+  #AndreaScarpati#Developer#Sistemista#ConsulenteIT
 ---
 ## 🎓 Formazione
 Laureato in Ingegneria dei Servizi di Software, Networking e Consulenza IT.
