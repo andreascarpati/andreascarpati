@@ -1,35 +1,25 @@
 # Andrea Scarpati
-
 Sviluppatore Software • Sistemista • Consulente IT  
 P.IVA: 10877061217  
 **Settori ATECO:**  
 - 62.10.00 – Programmazione Informatica  
 - 62.20.10 – Sistemista e Consulente IT  
-
 ---
-
 ## 🎓 Formazione
 Laureato in Ingegneria dei Servizi di Software, Networking e Consulenza IT.
-
 ---
-
 ## 📞 Contatti Professionali (solo tramite WhatsApp Business)
 Per richieste, preventivi e consulenze utilizzo esclusivamente i canali con WhatsApp Business integrato:
-
 - **Pagine Gialle:**  
   https://www.paginegialle.it/servizisoftwarenetworking-cicciano  
-
 - **Subito (Servizi Software & Networking):**  
   https://www.subito.it/servizi/servizi-software-networking-consulenza-it-napoli-649670870.htm?utm_medium=referral&utm_source=subito&utm_campaign=free-engagement-myads  
-
 👉 *Questi canali permettono contatto immediato via WhatsApp e gestione clienti tramite dashboard.*
-
 ---
 
 ## 📡 Canali Demo & Community
 - Telegram: https://www.t.me/imparareinformatica  
 - YouTube: https://www.youtube.com/@andreascarpati5192  
-
 ---
 
 ## 🧰 Competenze Tecniche
